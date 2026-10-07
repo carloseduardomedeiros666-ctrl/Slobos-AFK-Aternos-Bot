@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GhostCraft123.aternos.me
-",
+    "ip": "GhostCraft123.aternos.me:57537",
     "port": 57537,
     "version": "",
     "try-creative": false
